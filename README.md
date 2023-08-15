@@ -14,7 +14,7 @@ a maior parte foi feita na primeira aula.
 Já o restante ( como criar o repositório, commit, git, etc) foi tudo na segunda aula.
 
 #### Sobre o Glassmorfismo
-Bom o glassmorfidmo é uma ferramenta bem util para a personalização
+Bom o glassmorfismo é uma ferramenta bem util para a personalização
 do seu site, ele faz um efeite de vidro( Como se tivesse um vidro na frente) 
 é totalmente personalizável, você pode aumentar o tamanho dele, aumentar o efeito de embaçar,
 adicionar ou remover uma borda, alterar a cor dele, etc.
