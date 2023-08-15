@@ -18,5 +18,6 @@ Bom o glassmorfidmo é uma ferramenta bem util para a personalização
 do seu site, ele faz um efeite de vidro( Como se tivesse um vidro na frente) 
 é totalmente personalizável, você pode aumentar o tamanho dele, aumentar o efeito de embaçar,
 adicionar ou remover uma borda, alterar a cor dele, etc.
-Enfim você pode fazer muita coisa, bom esse foi meu primeiro site 
-espero que goste :) 
+Enfim você pode fazer muita coisa. 
+
+### _bom esse foi meu primeiro site espero que goste :)_
