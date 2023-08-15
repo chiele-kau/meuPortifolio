@@ -1,5 +1,5 @@
 #sobre,
- #abilidades,
+ #habilidades,
   #portifolio,
    #contato {
     padding: 10rem 0;
@@ -32,12 +32,12 @@
 }
 
 
-.servicesText.card {
+.skillsText.card {
     height: 280px;
     cursor: pointer;
     padding: 0 2rem;
 }
-.servicesIcon {
+.skillsIcon {
     height: 36px;
     text-align: center;
     width: 100%;
@@ -48,7 +48,7 @@
 .card:hover .servicesIcon {
     color: #008000;
 }
-.servicesText:hover {
+.skillsText:hover {
     border: 1px solid;
     border-color: #008000;
 }
